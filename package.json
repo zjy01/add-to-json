@@ -1,0 +1,25 @@
+{
+  "name": "add-to-json",
+  "version": "0.0.1",
+  "description": "add toJSON method(unenumerable) to object",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "toJSON"
+  ],
+  "author": "carvenzhang",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjy01/add-to-json.git"
+  }
+}
